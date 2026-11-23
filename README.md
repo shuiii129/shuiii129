@@ -50,6 +50,19 @@ I am a developer driven by curiosity and a passion for crafting clean, efficient
 
 ---
 
+### ✦ Contribution Garden 🌸
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shuiii129/shuiii129/output/contribution-garden-dark.svg" />
+  <img alt="Shi Hui's Contribution Garden" src="https://raw.githubusercontent.com/shuiii129/shuiii129/output/contribution-garden.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
   <sub>Designed with simplicity and focus • © Shi Hui</sub>
 </div>
