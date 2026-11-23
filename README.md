@@ -33,23 +33,6 @@ I am a developer driven by curiosity and a passion for crafting clean, efficient
 
 ---
 
-### ✦ Featured Repositories
-
-<!-- Replace with your actual project links and descriptions -->
-- **[Project Name 1](https://github.com/shuiii129)**  
-  A modern web application built to solve everyday workflow problems with speed and precision.  
-  `TypeScript` • `React` • `Tailwind CSS` • `Node.js`
-
-- **[Project Name 2](https://github.com/shuiii129)**  
-  High-performance backend API designed for reliable data processing and scalability.  
-  `Python` • `FastAPI` • `PostgreSQL` • `Docker`
-
-- **[Project Name 3](https://github.com/shuiii129)**  
-  Developer tool / utility focused on productivity, automation, and simplicity.  
-  `JavaScript` • `Express` • `MongoDB`
-
----
-
 ### ✦ Contribution Garden 🌸
 
 <div align="center">
