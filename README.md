@@ -56,7 +56,8 @@ I am a developer driven by curiosity and a passion for crafting clean, efficient
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shuiii129/shuiii129/output/contribution-garden-dark.svg" />
-  <img alt="Shi Hui's Contribution Garden" src="https://raw.githubusercontent.com/shuiii129/shuiii129/output/contribution-garden.svg" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shuiii129/shuiii129/output/contribution-garden.svg" />
+  <img alt="Shi Hui's Contribution Garden" src="https://raw.githubusercontent.com/shuiii129/shuiii129/output/contribution-garden-dark.svg" />
 </picture>
 
 </div>
