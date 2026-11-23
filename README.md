@@ -2,10 +2,6 @@
 
 # Hi, I'm Shi Hui 👋
 
-**Software Developer** • Problem Solver • Tech Enthusiast
-
-<br />
-
 [![Email](https://img.shields.io/badge/Email-shihuiiii0129%40gmail.com-1e293b?style=flat-square&logo=gmail&logoColor=white)](mailto:shihuiiii0129@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-shuiii129-1e293b?style=flat-square&logo=github&logoColor=white)](https://github.com/shuiii129)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1e293b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
