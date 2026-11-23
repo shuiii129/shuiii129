@@ -1,80 +1,59 @@
-# Hi there, I'm Shi Hui 👋
+<div align="center">
+
+# Hi, I'm Shi Hui 👋
+
+**Software Developer** • Problem Solver • Tech Enthusiast
+
+<br />
+
+[![Email](https://img.shields.io/badge/Email-shihuiiii0129%40gmail.com-1e293b?style=flat-square&logo=gmail&logoColor=white)](mailto:shihuiiii0129@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shuiii129-1e293b?style=flat-square&logo=github&logoColor=white)](https://github.com/shuiii129)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1e293b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+</div>
+
+<br />
+
+---
+
+### ✦ About Me
+
+I am a developer driven by curiosity and a passion for crafting clean, efficient applications. I enjoy exploring new technologies, solving complex challenges, and building software that delivers a great user experience.
+
+- 🔭 **Current Focus:** Modern web applications, scalable architectures & robust APIs
+- 🌱 **Learning:** Cloud architecture & distributed systems
+- 💬 **Ask me about:** JavaScript, TypeScript, Python & full-stack development
+- ⚡ **Interests:** Clean code, UI/UX design, and open-source collaboration
+
+---
+
+### ✦ Tech & Tools
 
 <div align="center">
 
-<!-- Typing SVG Headline -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Passionate+Problem+Solver" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:shihuiiii0129@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,tailwind,nodejs,express,postgres,mongodb,git,github,docker,linux&theme=dark&perline=8" alt="Tech Stack" />
 
 </div>
 
 ---
 
-### 🚀 About Me
+### ✦ Featured Repositories
 
-- 🔭 **Current Focus:** Building scalable web applications & exploring modern tech stacks
-- 🌱 **Learning:** Cloud architecture, distributed systems, and AI-driven workflows
-- 💬 **Ask me about:** Web development, clean code practices, and system design
-- ⚡ **Fun Fact:** When I'm not coding, you can find me exploring new coffee spots or reading tech blogs.
+<!-- Replace with your actual project links and descriptions -->
+- **[Project Name 1](https://github.com/shuiii129)**  
+  A modern web application built to solve everyday workflow problems with speed and precision.  
+  `TypeScript` • `React` • `Tailwind CSS` • `Node.js`
 
----
+- **[Project Name 2](https://github.com/shuiii129)**  
+  High-performance backend API designed for reliable data processing and scalability.  
+  `Python` • `FastAPI` • `PostgreSQL` • `Docker`
 
-### 🛠️ Skills & Technologies
-
-<div align="center">
-
-#### Languages & Core
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&perline=6" alt="Languages" />
-
-<br/>
-
-#### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&perline=6" alt="Frameworks" />
-
-<br/>
-
-#### Databases, Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,docker,aws&perline=6" alt="Tools & DB" />
-
-</div>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Project One** | A full-featured web app solving real-world workflows. | `React` `Node.js` `PostgreSQL` | [View Demo / Code](https://github.com/shuiii129) |
-| **Project Two** | High-performance tool or API service designed for developers. | `TypeScript` `Tailwind` `Vercel` | [View Demo / Code](https://github.com/shuiii129) |
-| **Project Three** | Personal portfolio and interactive dashboard showcase. | `Next.js` `Framer Motion` | [View Demo / Code](https://github.com/shuiii129) |
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shuiii129&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuiii129&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuiii129&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-
-</div>
+- **[Project Name 3](https://github.com/shuiii129)**  
+  Developer tool / utility focused on productivity, automation, and simplicity.  
+  `JavaScript` • `Express` • `MongoDB`
 
 ---
 
 <div align="center">
-
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
+  <sub>Designed with simplicity and focus • © Shi Hui</sub>
 </div>
